@@ -1,5 +1,4 @@
 ### Olá, meu nome é Ana
-    Sou estudante do curso TÉCNICO EM INFORMÁTICA no IFPB
 
 <div align="center">
   <a href="https://github.com/anapaula2b">
